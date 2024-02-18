@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ygvNtGzHvx8L2fwyShyw1wdxHHJ8KP205dh7mxb8x3MhW/NcwxPyu86qY/vF/2owPOIVmxD0bd75D0jh6pcfUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\z.daneshi\\Desktop\\refit\\WorkingWithRefit\\src\\SimpleUsage\\SimpleUsage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\z.daneshi\\.nuget\\packages\\refit\\7.0.0\\refit.7.0.0.nupkg.sha512",
+    "C:\\Users\\z.daneshi\\.nuget\\packages\\system.net.http.json\\7.0.1\\system.net.http.json.7.0.1.nupkg.sha512",
+    "C:\\Users\\z.daneshi\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\z.daneshi\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
