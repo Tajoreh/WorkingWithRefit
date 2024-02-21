@@ -20,9 +20,9 @@ C:\Users\z.daneshi\Desktop\refit\WorkingWithRefit\src\UsingAuthorizations\obj\De
 C:\Users\z.daneshi\Desktop\refit\WorkingWithRefit\src\UsingAuthorizations\obj\Debug\net8.0\UsingAuthorizations.AssemblyInfo.cs
 C:\Users\z.daneshi\Desktop\refit\WorkingWithRefit\src\UsingAuthorizations\obj\Debug\net8.0\UsingAuthorizations.csproj.CoreCompileInputs.cache
 C:\Users\z.daneshi\Desktop\refit\WorkingWithRefit\src\UsingAuthorizations\obj\Debug\net8.0\UsingAuthorizations.sourcelink.json
-C:\Users\z.daneshi\Desktop\refit\WorkingWithRefit\src\UsingAuthorizations\obj\Debug\net8.0\UsingAuthorizations.csproj.CopyComplete
 C:\Users\z.daneshi\Desktop\refit\WorkingWithRefit\src\UsingAuthorizations\obj\Debug\net8.0\UsingAuthorizations.dll
 C:\Users\z.daneshi\Desktop\refit\WorkingWithRefit\src\UsingAuthorizations\obj\Debug\net8.0\refint\UsingAuthorizations.dll
 C:\Users\z.daneshi\Desktop\refit\WorkingWithRefit\src\UsingAuthorizations\obj\Debug\net8.0\UsingAuthorizations.pdb
 C:\Users\z.daneshi\Desktop\refit\WorkingWithRefit\src\UsingAuthorizations\obj\Debug\net8.0\UsingAuthorizations.genruntimeconfig.cache
 C:\Users\z.daneshi\Desktop\refit\WorkingWithRefit\src\UsingAuthorizations\obj\Debug\net8.0\ref\UsingAuthorizations.dll
+C:\Users\z.daneshi\Desktop\refit\WorkingWithRefit\src\UsingAuthorizations\obj\Debug\net8.0\UsingAut.55246795.Up2Date

@@ -2,7 +2,8 @@ using Microsoft.AspNetCore.Authorization;
 using Shared;
 
 var builder = WebApplication.CreateBuilder(args);
-
+builder.Services.AddAuthentication();
+builder.Services.AddAuthorization();
 // Add services to the container.
 
 var app = builder.Build();
@@ -10,7 +11,8 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 
 app.UseHttpsRedirection();
-
+app.UseAuthentication();
+app.UseAuthorization();
 var summaries = new[]
 {
     "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
@@ -24,7 +26,7 @@ app.MapGet("/getToken", () =>
 });
 
 
-app.MapGet("/WeatherForecast", [Authorize] () =>
+app.MapGet("/WeatherForecast", () =>
 {
     var forecast = Enumerable.Range(1, 5).Select(i =>
         new WeatherForecast
